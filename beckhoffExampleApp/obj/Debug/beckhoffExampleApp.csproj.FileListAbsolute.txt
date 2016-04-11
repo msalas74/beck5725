@@ -1,0 +1,17 @@
+c:\users\msalas\documents\visual studio 2015\Projects\beckhoffExampleApp\beckhoffExampleApp\bin\Debug\beckhoffExampleApp.exe.config
+C:\Users\msalas\Documents\Visual Studio 2015\Projects\beckhoffExampleApp\beckhoffExampleApp\bin\Debug\beckhoffExampleApp.exe
+C:\Users\msalas\Documents\Visual Studio 2015\Projects\beckhoffExampleApp\beckhoffExampleApp\bin\Debug\beckhoffExampleApp.pdb
+C:\Users\msalas\Documents\Visual Studio 2015\Projects\beckhoffExampleApp\beckhoffExampleApp\bin\Debug\TwinCAT.Ads.dll
+C:\Users\msalas\Documents\Visual Studio 2015\Projects\beckhoffExampleApp\beckhoffExampleApp\bin\Debug\TwinCAT.Ads.xml
+C:\Users\msalas\Documents\Visual Studio 2015\Projects\beckhoffExampleApp\beckhoffExampleApp\obj\Debug\beckhoffExampleApp.csprojResolveAssemblyReference.cache
+C:\Users\msalas\Documents\Visual Studio 2015\Projects\beckhoffExampleApp\beckhoffExampleApp\obj\Debug\MainWindow.g.cs
+C:\Users\msalas\Documents\Visual Studio 2015\Projects\beckhoffExampleApp\beckhoffExampleApp\obj\Debug\App.g.cs
+C:\Users\msalas\Documents\Visual Studio 2015\Projects\beckhoffExampleApp\beckhoffExampleApp\obj\Debug\beckhoffExampleApp_MarkupCompile.cache
+C:\Users\msalas\Documents\Visual Studio 2015\Projects\beckhoffExampleApp\beckhoffExampleApp\obj\Debug\beckhoffExampleApp_MarkupCompile.lref
+C:\Users\msalas\Documents\Visual Studio 2015\Projects\beckhoffExampleApp\beckhoffExampleApp\obj\Debug\MainWindow.baml
+C:\Users\msalas\Documents\Visual Studio 2015\Projects\beckhoffExampleApp\beckhoffExampleApp\obj\Debug\beckhoffExampleApp.g.resources
+C:\Users\msalas\Documents\Visual Studio 2015\Projects\beckhoffExampleApp\beckhoffExampleApp\obj\Debug\beckhoffExampleApp.Properties.Resources.resources
+C:\Users\msalas\Documents\Visual Studio 2015\Projects\beckhoffExampleApp\beckhoffExampleApp\obj\Debug\beckhoffExampleApp.csproj.GenerateResource.Cache
+C:\Users\msalas\Documents\Visual Studio 2015\Projects\beckhoffExampleApp\beckhoffExampleApp\obj\Debug\beckhoffExampleApp.exe
+C:\Users\msalas\Documents\Visual Studio 2015\Projects\beckhoffExampleApp\beckhoffExampleApp\obj\Debug\beckhoffExampleApp.pdb
+C:\Users\msalas\documents\visual studio 2015\Projects\beckhoffExampleApp\beckhoffExampleApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
